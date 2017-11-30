@@ -1,0 +1,24 @@
+{
+    "name": "kmrs.driver.app",
+    "version": "1.5.0",
+    "displayName": "Karenderia Driver App",
+    "cordova": {
+        "platforms": [
+            "android",
+            "ios"
+        ],
+        "plugins": {
+            "cordova-plugin-insomnia": {},
+            "cordova-plugin-mauron85-background-geolocation": {
+                "ALWAYS_USAGE_DESCRIPTION": "This app requires background tracking enabled"
+            },
+            "nl.x-services.plugins.insomnia": {}
+        }
+    },
+    "dependencies": {
+        "cordova-android": "~6.2.3",
+        "cordova-ios": "~4.4.0",
+        "cordova-plugin-insomnia": "^4.3.0",
+        "cordova-plugin-mauron85-background-geolocation": "2.2.5"
+    }
+}

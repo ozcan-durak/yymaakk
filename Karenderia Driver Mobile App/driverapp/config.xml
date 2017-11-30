@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="kmrs.driver.app" version="1.5.0" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Karenderia Driver App</name>
+    <name>Driver App</name>
     <description>
-        Karenderia Driver App
+        Driver App
     </description>
-    <author email="bastikikang@gmail.com" href="http://cordova.io">
+    <author email="" href="http://cordova.io">
         codemywebapps.com
     </author>
     <icon src="icon.png" />
